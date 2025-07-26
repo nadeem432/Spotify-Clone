@@ -6,7 +6,7 @@ A responsive and interactive **Spotify Clone** built using pure HTML, CSS, and J
 
 ## 📸 Preview
 
-![Spotify Clone Screenshot](path-to-screenshot.png)
+![Spotify Clone Screenshot](Main.png)
 
 ---
 
